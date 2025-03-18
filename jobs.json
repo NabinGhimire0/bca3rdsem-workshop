@@ -1,0 +1,143 @@
+{
+    "jobs": [
+      {
+        "id": "1",
+        "title": "Frontend Developer",
+        "company": "Tech Solutions Inc.",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/D5612AQFfhTEictqBHA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174916441?e=2147483647&v=beta&t=IqnGNJxS4J-yaL4rgLBlx-cbNAbFwpEMCRvkkLXsR48",
+        "location": "San Francisco, CA",
+        "category": "Development",
+        "salary": "$90,000 - $120,000",
+        "description": "We are looking for an experienced Frontend Developer to join our team and help us build amazing user interfaces for our clients.",
+        "requirements": [
+          "3+ years of experience with React",
+          "Strong understanding of JavaScript, HTML, and CSS",
+          "Experience with responsive design",
+          "Knowledge of state management (Redux, Context API)"
+        ],
+        "benefits": [
+          "Competitive salary",
+          "Health insurance",
+          "Remote work options",
+          "Flexible hours",
+          "Professional development budget"
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Backend Developer",
+        "company": "Data Systems",
+        "companyLogo": "https://jaro-website.s3.ap-south-1.amazonaws.com/2024/08/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg",
+        "location": "New York, NY",
+        "category": "Development",
+        "salary": "$95,000 - $130,000",
+        "description": "Join our backend team to design and implement scalable APIs and database solutions that power our enterprise applications.",
+        "requirements": [
+          "4+ years of experience with Node.js or Python",
+          "Strong knowledge of database systems (SQL and NoSQL)",
+          "Experience with RESTful API design",
+          "Understanding of security best practices"
+        ],
+        "benefits": [
+          "Competitive salary",
+          "401(k) matching",
+          "Health and dental insurance",
+          "Unlimited PTO",
+          "Hybrid work model"
+        ]
+      },
+      {
+        "id": "3",
+        "title": "UX/UI Designer",
+        "company": "Creative Works",
+        "companyLogo": "https://jaro-website.s3.ap-south-1.amazonaws.com/2024/08/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg",
+        "location": "Austin, TX",
+        "category": "Design",
+        "salary": "$85,000 - $110,000",
+        "description": "We're seeking a talented UX/UI Designer to create beautiful and intuitive user experiences for our digital products.",
+        "requirements": [
+          "3+ years of experience in UX/UI design",
+          "Proficiency with design tools like Figma or Sketch",
+          "Understanding of user-centered design principles",
+          "Experience creating wireframes and prototypes"
+        ],
+        "benefits": [
+          "Competitive salary",
+          "Health benefits",
+          "Creative workspace",
+          "Flexible schedule",
+          "Remote work options"
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Data Scientist",
+        "company": "Analytics Pro",
+        "companyLogo": "https://jaro-website.s3.ap-south-1.amazonaws.com/2024/08/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg",
+        "location": "Chicago, IL",
+        "category": "Data",
+        "salary": "$110,000 - $140,000",
+        "description": "Join our data science team to extract insights from large datasets and develop machine learning models to solve complex business problems.",
+        "requirements": [
+          "Masters or PhD in Computer Science, Statistics, or related field",
+          "Experience with Python, R, and SQL",
+          "Knowledge of machine learning algorithms",
+          "Ability to communicate technical concepts to non-technical stakeholders"
+        ],
+        "benefits": [
+          "Competitive salary",
+          "Health and life insurance",
+          "Relocation assistance",
+          "Continuous learning opportunities",
+          "Modern office environment"
+        ]
+      },
+      {
+        "id": "5",
+        "title": "DevOps Engineer",
+        "company": "Cloud Systems",
+        "companyLogo": "https://jaro-website.s3.ap-south-1.amazonaws.com/2024/08/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg",
+        "location": "Seattle, WA",
+        "category": "Operations",
+        "salary": "$100,000 - $135,000",
+        "description": "We are looking for a DevOps Engineer to help us build and maintain our cloud infrastructure and deployment pipelines.",
+        "requirements": [
+          "3+ years of experience with AWS, Azure, or GCP",
+          "Knowledge of containerization (Docker, Kubernetes)",
+          "Experience with CI/CD pipelines",
+          "Scripting skills (Bash, Python)"
+        ],
+        "benefits": [
+          "Competitive salary",
+          "Stock options",
+          "Health and dental coverage",
+          "Remote work policy",
+          "Professional development"
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Product Manager",
+        "company": "Innovate Inc.",
+        "companyLogo": "https://jaro-website.s3.ap-south-1.amazonaws.com/2024/08/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg",
+        "location": "Boston, MA",
+        "category": "Management",
+        "salary": "$105,000 - $145,000",
+        "description": "Lead the development of our flagship product from conception to launch, working closely with design, engineering, and marketing teams.",
+        "requirements": [
+          "5+ years of product management experience",
+          "Strong analytical and problem-solving skills",
+          "Experience with agile methodologies",
+          "Excellent communication and leadership abilities"
+        ],
+        "benefits": [
+          "Competitive salary",
+          "Performance bonuses",
+          "Healthcare benefits",
+          "Flexible work arrangements",
+          "Professional growth opportunities"
+        ]
+      }
+    ]
+  }
+  
